@@ -11,4 +11,4 @@ a little training on CSS
 
 3. Position.
 ![Position](images/position_desktop.PNG)
-![Position Responsive](position_responsive.PNG)
+![Position Responsive](images/position_responsive.PNG)
