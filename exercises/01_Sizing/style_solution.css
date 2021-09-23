@@ -1,0 +1,25 @@
+html { font-size: 18px; }
+
+.tr-header {
+    border-bottom: 2px solid #979797;
+    background: #d3d3d3;
+    height: 150px;
+}
+
+.tr-header__links {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 0.8rem;
+}
+
+@media only screen and (min-width: 768px) { 
+    .tr-header__links { 
+        font-size: 1.2rem;
+        /* font-size: 18px; */
+    }
+}
+
+.tr-section {
+    background-color: rgb(232, 247, 247);
+    height: 100vh;
+}
